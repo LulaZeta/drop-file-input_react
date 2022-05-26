@@ -1,13 +1,19 @@
 # Drop File Input
 
-Aplicación realizada con React, Javascript, Hooks y CSS
-
+Aplicación hecha con Create React App.
 
 <p align="center">
   <img src="./drop_file_input.png" width= 600 >
 </p>
 
-##
+## Realizado con:
+- React
+- CSS 
+- JavaScript
+- Hooks
+- verificación de tipos PropTypes
+
+PropTypes exporta un rango de validadores que pueden ser usados para estar seguros que la información recibida sea válida (PropTypes solo se verifica en modo desarrollo). 
 
 ## Pasos para instalar este proyecto
 1. Clona el repositorio
