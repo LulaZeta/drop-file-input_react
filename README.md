@@ -13,6 +13,13 @@ Aplicación hecha con Create React App.
 - Hooks
 - verificación de tipos PropTypes
 
+## Recursos
+
+Boxicons: https://boxicons.com/
+
+Google font: https://fonts.google.com/
+
+
 PropTypes exporta un rango de validadores que pueden ser usados para estar seguros que la información recibida sea válida (PropTypes solo se verifica en modo desarrollo). 
 
 ## Pasos para instalar este proyecto
