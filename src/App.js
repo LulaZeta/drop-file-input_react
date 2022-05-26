@@ -1,9 +1,13 @@
 import './App.css';
+import DropFileInput from './components/drop-file-input/DropFileInput';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Drop file input</h1>
+    <div className="box">
+      <h2 className='"header'>
+          React Drop file input
+      </h2>
+      <DropFileInput />
     </div>
   );
 }
